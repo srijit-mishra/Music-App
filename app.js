@@ -5,7 +5,7 @@ const { default: mongoose } = require("mongoose");
 const path = require("path");
 
 const uri =
-  "mongodb+srv://srijit:iMmOrTaL222@cluster1.i4gn6gy.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://srijit:dAY7sQy0XPzFRbJR@cluster1.i4gn6gy.mongodb.net/?retryWrites=true&w=majority";
 
 app.use(cors({ origin: true }));
 app.use(express.json());
